@@ -2,6 +2,8 @@
 
 **VendiApp** is a mobile application designed to streamline the interaction between users and vendors. The app allows users to browse a wide variety of services and products from local vendors, make bookings, send messages, and manage their accounts effortlessly. The platform is built with a user-centric focus to ensure a smooth, intuitive experience for both end-users and vendors.
 
+
+- (Android app) link:https://github.com/KlaporeDevs/2S2425FinalProject/tree/App
 ---
 
 ## 📋 Project Description
